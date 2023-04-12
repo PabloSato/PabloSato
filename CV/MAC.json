@@ -1,0 +1,266 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pablo",
+      "surnames": "Fernández Sato",
+      "title": "Desarrollador de Aplicaciones Web",
+      "description": "Mi objetivo pasa por convertirme en desarrollador Java - Spring Boot. Tengo un flechazo con ese lenguaje, y es mi anhelo. También tengo formación en Node.js, MongoDB, Express.js, Angular, Elasticsearch, RabbitMQ, Slim Framework..... Pero Java es mi objetivo",
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/PabloSato"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pablo-fern%C3%A1ndez-sato-24abab91/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Universidad Internacional de La Rioja  - UNIR"
+        },
+        "roles": [
+          {
+            "name": "PHP Developer",
+            "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "PHP Developer en el departamento de Innovación, desarrollo y mantenimiento del código, desarrollo de Fronts de consumo interno y dashboards en Grafana"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "UNIR - La Universidad en Internet"
+        },
+        "roles": [
+          {
+            "name": "Prácticas Departamento de Innovación UNIR",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Prácticas en el Departamento de Innovación de UNIR\nFormación en Elasticsearch, RabbitMQ, Slim Framework,...."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo de Aplicaciones Web",
+        "startDate": "2020-10-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Instituto Tecnológico Edix",
+          "description": "FP de Grado Superior de Desarrollo de Aplicaciones Web con especialización en Full y MEAN Stack en el Instituto Edix",
+          "URL": "https://www.edix.com/es/fp/daw-desarrollo-de-aplicaciones-web/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/pablo-fern%C3%A1ndez-sato-24abab91/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
