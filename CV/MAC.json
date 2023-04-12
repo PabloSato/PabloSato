@@ -9,7 +9,7 @@
       "name": "Pablo",
       "surnames": "Fernández Sato",
       "title": "Desarrollador de Aplicaciones Web",
-      "description": "Mi objetivo pasa por convertirme en desarrollador Java - Spring Boot. Tengo un flechazo con ese lenguaje, y es mi anhelo. También tengo formación en Node.js, MongoDB, Express.js, Angular, Elasticsearch, RabbitMQ, Slim Framework..... Pero Java es mi objetivo",
+      "description": "Mi objetivo pasa por convertirme en desarrollador Back-End Tengo formación en Node.js, MongoDB, Express.js, Angular, Elasticsearch, RabbitMQ, PHP, Slim Framework",
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
@@ -125,11 +125,11 @@
     "languages": [
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
