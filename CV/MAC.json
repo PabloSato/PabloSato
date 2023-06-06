@@ -292,6 +292,35 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Perfil MEAN Stack",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "UNIR - La Universidad Internacional de La Rioja",
+          "description": "Especialización en MEAN Stack como parte del curriculo del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web impartido por el Instituto Tecnológico Edix y avalado por la UNIR - La Universidad Internacional de La Rioja",
+          "URL": "https://unirfp.unir.net/ingenieria/fp-grado-daw-desarrollo-de-aplicaciones-web/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
