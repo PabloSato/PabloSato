@@ -354,6 +354,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "TDD Fundamentals in TypeScript ",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "This course covers the fundamentals of Test Driven Development using TypeScript as the language of practice",
+          "URL": "https://www.udemy.com/certificate/UC-5a5de92a-5289-4055-b7ca-98ba7d230ca4/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
         "startDate": "2022-09-01",
         "institution": {
