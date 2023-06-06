@@ -197,6 +197,12 @@
       },
       {
         "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
