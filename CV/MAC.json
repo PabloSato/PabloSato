@@ -11,22 +11,12 @@
       "title": "Desarrollador de Aplicaciones Web",
       "description": "Mi objetivo pasa por convertirme en desarrollador Back-End Tengo formación en Node.js, MongoDB, Express.js, Angular, Elasticsearch, RabbitMQ, PHP, Slim Framework",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/PabloSato"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/pablo-fern%C3%A1ndez-sato-24abab91/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -119,20 +109,80 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Biblioteca",
+          "description": "Tengo como side-project el desarrollo de dos proyectos (front-end y back-end) para gestionar la biblioteca familiar.\n\nlas url son:\nback: https://github.com/PabloSato/biblioteca-be-nodejs.git\nfront: https://github.com/PabloSato/biblioteca-fe-angular.git\n\nEs un proyecto de gestión dónde se podría encontrar información sobre los libros y autores, así como su localización (estantería, balda)\n\nLa idea original es desarrollarlo completamente en todos los idiomas que fuese aprendiendo, tanto el lado del back-end, como el front-end.\n\nEl proyecto, que está en progreso y no está finalizado, está en Node.js el back-end y Angular el front-end. Actualmente estoy refactorizando el lado de back-end para pasarlo a Typescript y aplicar tanto SOLID como TDD.\n\nUna vez terminado, los siguientes pasos serán pasar el back-end a Laravel y Spring Boot y el front-end a React y Vue",
+          "URL": "https://github.com/PabloSato?tab=repositories"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Inglés",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JAVA",
@@ -141,7 +191,31 @@
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       },
@@ -156,48 +230,6 @@
           "name": "Spring Boot",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
       }
     ],
     "studies": [
@@ -206,12 +238,12 @@
         "degreeAchieved": true,
         "name": "Desarrollo de Aplicaciones Web",
         "startDate": "2020-10-01",
-        "finishDate": "2022-06-01",
         "institution": {
           "name": "Instituto Tecnológico Edix",
           "description": "FP de Grado Superior de Desarrollo de Aplicaciones Web con especialización en Full y MEAN Stack en el Instituto Edix",
           "URL": "https://www.edix.com/es/fp/daw-desarrollo-de-aplicaciones-web/"
         },
+        "finishDate": "2022-06-01",
         "linkedCompetences": [
           {
             "name": "Angular2+",
@@ -255,14 +287,47 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistencia a la frustración",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/pablo-fern%C3%A1ndez-sato-24abab91/"
+          "URL": "https://www.linkedin.com/in/pablo-fern%C3%A1ndez-sato-24abab91/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/PabloSato",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "pablofersato@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "667581626",
+          "countryCode": "+34"
         }
       ]
     },
@@ -292,5 +357,13 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Actualmente, cualquier trabajo como desarrollador Java con Spring Boot me parece El Dorado",
+    "projects": [
+      {
+        "name": "Biblioteca"
+      }
+    ]
   }
 }
