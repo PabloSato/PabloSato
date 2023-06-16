@@ -197,12 +197,6 @@
       },
       {
         "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
@@ -494,6 +488,12 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Actualmente, cualquier trabajo como desarrollador Java con Spring Boot me parece El Dorado",
     "projects": [
       {
