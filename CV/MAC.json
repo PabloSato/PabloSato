@@ -280,35 +280,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": " Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
-        "startDate": "2022-06-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",
-          "URL": "https://www.udemy.com/certificate/UC-62806a84-d23e-4665-b4e4-60e6de9778bc/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Express",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "Mongoose",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "API Rest con Laravel",
         "startDate": "2023-04-01",
         "institution": {
