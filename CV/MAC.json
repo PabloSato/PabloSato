@@ -403,6 +403,34 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Perfil MEAN Stack",
         "startDate": "2022-06-01",
         "institution": {
