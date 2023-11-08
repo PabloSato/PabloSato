@@ -16,7 +16,17 @@
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pablo-fern%C3%A1ndez-sato-24abab91/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/PabloSato"
+      }
+    ]
   },
   "experience": {
     "jobs": [
