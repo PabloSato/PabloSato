@@ -36,11 +36,11 @@
         },
         "roles": [
           {
-            "name": "PHP Developer",
+            "name": "PHP Developer en Proyectos Comerciales",
             "startDate": "2023-04-01",
             "challenges": [
               {
-                "description": "Colaboro con los perfiles senior en el desarrollo de nuevas integraciones de distintas herramientas con el CRM Salesforce. Desarrollo de Test Unitarios"
+                "description": "Colaboro con los perfiles senior en el desarrollo de nuevas integraciones de distintas herramientas con el CRM Salesforce. Desarrollo de Test Unitarios. Desarrollo de una ETL que obtiene los datos de Tableau y Salesforce y tras las transformaciones necesarias, actualiza información en Salesforce. "
               }
             ],
             "competences": [
