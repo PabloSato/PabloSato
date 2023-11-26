@@ -290,30 +290,6 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "API Rest con Laravel",
-        "startDate": "2023-04-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Estacado134/curso/2185-laravel-api/diploma/detalle/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "API",
-            "type": "technology"
-          },
-          {
-            "name": "Laravel",
-            "type": "technology"
-          },
-          {
-            "name": "REST",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Desarrollo de Aplicaciones Web",
