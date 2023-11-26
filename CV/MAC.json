@@ -74,11 +74,11 @@
         },
         "roles": [
           {
-            "name": "PHP Developer",
+            "name": "PHP Developer en Innovación",
             "startDate": "2022-07-01",
             "challenges": [
               {
-                "description": "PHP Developer en el departamento de Innovación, desarrollo y mantenimiento del código, desarrollo de Fronts de consumo interno y dashboards en Grafana"
+                "description": "PHP Developer en el departamento de Innovación, desarrollo y mantenimiento del código de una API que sirve como orquestador entre los sistemas de LimeSurvey (sistema de encuestas), Mautic (Marketing Automation. Expandimos la lógica de las campañas de marketing mediante webhooks que llaman a procesos del API) con el resto del ecosistema de la Universidad, desarrollo de Fronts de consumo interno y dashboards en Grafana"
               }
             ],
             "competences": [
