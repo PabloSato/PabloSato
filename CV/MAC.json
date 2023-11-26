@@ -290,6 +290,59 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Bootcamp Especialización DevOps",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Geekshubs Academy",
+          "description": "Bootcamp de Especialización en DevOps, Temario:\n- Introducción al entorno DevOps\n- Sistemas de automatización, Architectura como código (Terraform)\n- Base de Infraestructura (Ansible)\n- Sistemas de gestión de la infraestructura\n- Desplegando contenedores (Docker)\n- Gestionando clústers con contenedores (Kubernetes)\n- Infraestructura en entorno Azure\n- Herramientas de orquestación (Jenkins)\n- Alta disponibilidad\n- Log Analytics (ELK, Grafana)\n- SecDevOps\n- Continuous Testing",
+          "URL": "https://geekshubsacademy.com/producto/devops/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Ansible",
+            "type": "technology"
+          },
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "ELK",
+            "type": "technology"
+          },
+          {
+            "name": "Grafana",
+            "type": "technology"
+          },
+          {
+            "name": "Jenkins",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "Terraform",
+            "type": "technology"
+          },
+          {
+            "name": "Vagrant",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Desarrollo de Aplicaciones Web",
