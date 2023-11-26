@@ -550,6 +550,7 @@
       }
     ],
     "desiredJobDescription": "Actualmente, cualquier trabajo como desarrollador Java con Spring Boot me parece El Dorado",
+    "goodPractices": "En los proyecto en los que trabajo intento aplicar siempre los principios de TDD, SOLID, DRY... Diseñando siempre con la vista puesta en la reutilización del código: Abstraigo lo máximo que puedo las partes más proclives a ser utilizadas en otros procesos, desarrollando los métodos que implementan la funcionalidad,  lo más abstractos posibles, para que sean llamados por otros métodos dónde se concreta la especificación. De esta forma consigo tener métodos reusables por otros procesos futuros y métodos con usos muy concretos, atómicos.  desde manejar y controlar todas las posibles respuestas",
     "projects": [
       {
         "name": "Biblioteca"
