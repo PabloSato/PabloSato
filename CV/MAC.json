@@ -474,16 +474,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
-        "startDate": "2022-09-01",
-        "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/certificate/UC-09ab1710-332e-4d6c-836b-dd6218954732/"
-        }
       }
     ],
     "softSkills": [
