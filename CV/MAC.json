@@ -40,7 +40,7 @@
             "startDate": "2023-04-01",
             "challenges": [
               {
-                "description": "Colaboro con los perfiles senior en el desarrollo de nuevas integraciones de distintas herramientas con el CRM Salesforce. Desarrollo de Test Unitarios. Desarrollo de una ETL que obtiene los datos de Tableau y Salesforce y tras las transformaciones necesarias, actualiza información en Salesforce. "
+                "description": "Desarrollo en una API REST para la interconexión entre CRM Salesforce y otros sistemas internos. Colaboro con los perfiles senior en el desarrollo de nuevas integraciones. Desarrollo de Test Unitarios. Desarrollo ETL. Desarrollo de Tests Unitarios. Conexiones con RabbitMQ para procesos asíncronos. Conexión con Redis"
               }
             ],
             "competences": [
