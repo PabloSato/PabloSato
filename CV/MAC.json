@@ -296,6 +296,15 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": " ITIL 4 Foundation Certificate in IT Service Management",
+        "startDate": "2024-11-01",
+        "institution": {
+          "name": "PeopleCert"
+        }
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Bootcamp Especialización DevOps",
