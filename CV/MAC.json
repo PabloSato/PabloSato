@@ -405,22 +405,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Desarrollo de Aplicaciones en Laravel con TDD",
-        "startDate": "2023-04-01",
-        "institution": {
-          "name": "https://platzi.com/p/Estacado134/curso/2187-laravel-tdd/diploma/detalle/",
-          "URL": "https://platzi.com/p/Estacado134/curso/2187-laravel-tdd/diploma/detalle/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Laravel",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
         "startDate": "2022-06-01",
         "institution": {
