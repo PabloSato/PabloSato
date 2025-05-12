@@ -235,7 +235,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -377,7 +377,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -518,15 +518,12 @@
           "URL": "https://github.com/PabloSato",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "pablofersato@gmail.com"
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -553,7 +550,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       }
     ],
