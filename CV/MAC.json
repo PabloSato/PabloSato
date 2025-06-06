@@ -504,6 +504,10 @@
         {
           "name": "Salesforce",
           "type": "technology"
+        },
+        {
+          "name": "Salesforce Apex",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
