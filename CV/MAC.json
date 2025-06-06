@@ -476,6 +476,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
       "discardedCompetences": [
         {
           "name": "CSS",
