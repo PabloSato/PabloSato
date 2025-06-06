@@ -488,6 +488,10 @@
         {
           "name": "RabbitMQ",
           "type": "technology"
+        },
+        {
+          "name": "Redis",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
