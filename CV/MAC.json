@@ -508,6 +508,10 @@
         {
           "name": "Salesforce Apex",
           "type": "technology"
+        },
+        {
+          "name": "Salesforce Marketing Cloud",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
