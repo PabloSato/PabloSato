@@ -235,12 +235,6 @@
       },
       {
         "skill": {
-          "name": "Java",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -266,6 +260,12 @@
       {
         "skill": {
           "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
@@ -534,7 +534,23 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Java",
+        "name": "Elasticsearch",
+        "type": "technology"
+      },
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "RabbitMQ",
+        "type": "technology"
+      },
+      {
+        "name": "Redis",
         "type": "technology"
       }
     ],
