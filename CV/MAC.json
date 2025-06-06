@@ -478,6 +478,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Elasticsearch",
+          "type": "technology"
+        },
+        {
           "name": "Laravel",
           "type": "technology"
         },
