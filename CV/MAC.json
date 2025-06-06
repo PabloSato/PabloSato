@@ -490,11 +490,19 @@
           "type": "technology"
         },
         {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
           "name": "RabbitMQ",
           "type": "technology"
         },
         {
           "name": "Redis",
+          "type": "technology"
+        },
+        {
+          "name": "Salesforce",
           "type": "technology"
         }
       ],
