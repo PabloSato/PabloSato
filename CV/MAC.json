@@ -484,6 +484,10 @@
         {
           "name": "PHP",
           "type": "technology"
+        },
+        {
+          "name": "RabbitMQ",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
